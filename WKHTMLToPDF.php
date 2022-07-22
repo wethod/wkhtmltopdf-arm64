@@ -1,7 +1,8 @@
 <?php
-namespace h4cc\WKHTMLToPDF;
+
+namespace wethod\WKHTMLToPDF;
 
 class WKHTMLToPDF
 {
-    const PATH = __DIR__ . '/bin/wkhtmltopdf-amd64';
+    const PATH = __DIR__ . '/bin/wkhtmltopdf-arm64';
 }
